@@ -1,0 +1,17 @@
+Passed all 6,144 tests for convertion c
+On c convertion, your printf is 1.83 times slower than system's
+Passed all 7,168 tests for convertion s
+On s convertion, your printf is 6.32 times slower than system's
+Passed all 6,144 tests for convertion p
+On p convertion, your printf is 3.70 times slower than system's
+Passed all 6,144 tests for convertion d
+On d convertion, your printf is 3.76 times slower than system's
+Passed all 6,144 tests for convertion i
+On i convertion, your printf is 3.59 times slower than system's
+Passed all 6,144 tests for convertion u
+On u convertion, your printf is 3.59 times slower than system's
+Passed all 6,144 tests for convertion x
+On x convertion, your printf is 3.26 times slower than system's
+Passed all 6,144 tests for convertion X
+On X convertion, your printf is 3.36 times slower than system's
+Total tested format count: 50176
